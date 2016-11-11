@@ -1,14 +1,14 @@
 # goodbye-cosmos
 
-I have lived 
-in a world of color 
-without you 
-for my entire life
+I have lived <BR>
+in a world of color <BR>
+without you <BR>
+for my entire life <BR>
+<BR><BR>
 
-
-antipodes,
-remembering what it means
-to be without you
+antipodes,<BR>
+remembering what it means<BR>
+to be without you<BR><BR><BR><BR><BR>
 
 
 
